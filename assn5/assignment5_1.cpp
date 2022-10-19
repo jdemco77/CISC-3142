@@ -46,8 +46,6 @@ int summationY(){
     return summation;
 }
 
-
-
 void linearRegression(){
     int x[9] = {5,6,4,7,8,5,6,3,8};
     int y[9] = {6,5,5,7,7,6,5,5,6};
@@ -68,26 +66,8 @@ void linearRegression(){
     cout << b0 << " + " << b1 <<"X" << endl;
 }
 
-int sumOfDigits(int n)
-    {
-        int sum = 0;
-        while (n != 0) {
-            sum = sum + n % 10;
-            n = n / 10;
-        }
-        return sum;
-    }
-void primeNumbers(){
-    for (int i=2; i<100; i++){ 
-        for (int j=2; j*j<=i; j++){
-            if (i % j == 0) 
-                break;
-            else if (j+1 > sqrt(i)) {
-                cout << i << " ";
-            }
-        } 
-    }
-}
+
+
 int main(){
 //4.5
     cout << -30 * 3 + 21 / 5 << endl;   // -86
@@ -112,16 +92,9 @@ int main(){
     //(b) ival becomes a  float, then it is added to fval, result becomes a double type.
     //(c) cval becomes a int, then it is multiplied by ival, this result becomes a double, then it is added to dval.
 
-//Sum of Digits
-    int ret= sumOfDigits(1234);
-    cout << ret; //10
-
-//PrimeNUmbers
-    primeNumbers(); //will print out primes
 
 //Linear Regression
     linearRegression();
-
 
     return 0;
 }
