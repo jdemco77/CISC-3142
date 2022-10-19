@@ -12,11 +12,10 @@ using namespace std;
 
 
 void createDataFile(){
-
     int x=0, y=0;
     ofstream target;
     target.open ("linearData.txt");
-
+    
     for (int j=0; j < 6; j++)
     {
         target  << " " << x;
@@ -54,13 +53,17 @@ void linearRegression(){
     int slopeTop=0;
     int slopeBot=0;
 
+    //top half b1 formula
     for(int i=0;i<9;i++){
         slopeTop= slopeTop+ (x[i]-sumX)*( y[i]-sumY);
     }
+    //bottom half b1 formula
     for(int i=0;i<9;i++){
         slopeBot= slopeBot+ (x[i]-sumX)*(x[i]- sumX);
     }
+    //b1 calculation
     int b1= slopeTop/slopeBot;
+    //b0 calculation
     int b0 = (sumY - b1*sumX);
     cout << "slope formula for data" <<endl;
     cout << b0 << " + " << b1 <<"X" << endl;
