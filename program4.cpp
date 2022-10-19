@@ -19,6 +19,28 @@ int main() {
     printf("Size of long: %zu byte\n", sizeof(longT));
     printf("Size of longlong: %zu byte\n", sizeof(longlongT));
     printf("Size of longlong: %zu byte\n", sizeof(doublelongT));
+    
+    printf("Integral types can be signed or unsigned, defaulted to signed");
+    signed int sin=-1;
+    unsigned int sin2=-1;
+    cout << sin << endl;  // prints -1
+    cout << sin2 << endl; //prints 4231567= size of potential values based on bit size
+    
+    //signed int or unsigned int
+    printf("char can be signed or unsigned but char != signed char, the compiler will determine which is used depending on case");
+
+
+
+    printf("");
+
+    printf("");
+    printf("");
+    printf("");
+
+
+
+
+
 
     return 0;
 }
