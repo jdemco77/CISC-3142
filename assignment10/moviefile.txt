@@ -1,0 +1,19 @@
+1982;117;Tragedy of a Ridiculous Man;Drama;Tognazzi, Ugo;Aimee, Anouk;Bertolucci, Bernardo;17;No;NicholasCage.png
+1966;103;A Man & a Woman;Drama;Trintignant, Jean-Louis;Aimee, Anouk;Lelouch, Claude;46;Yes;NicholasCage.png
+1986;112;A Man & a Woman: Twenty Years Later;Drama;Trintignant, Jean-Louis;Aimee, Anouk;Lelouch, Claude;49;No;NicholasCage.png
+1966;103;Un Hombre y una Mujer;Drama;Trintignant, Jean-Louis;Aimee, Anouk;Lelouch, Claude;6;Yes;NicholasCage.png
+1985;112;Official Story, The;Drama;Alterio, Hector;Aleandro, Norma;Puenzo, Luiz;39;Yes;NicholasCage.png
+1976;150;Lindbergh Kidnapping Case, The;Drama;Hopkins, Anthony;Alexander, Denise;Kulik, Buzz;51;No;AnthonyHopkins.png
+1929;84;Blackmail;Mystery;Longden, John;Algood, Sara;Hitchcock, Alfred;2;No;alfredHitchcock.png
+1963;109;Donovan's Reef;Comedy;Wayne, John;Allen, Elizabeth;Ford, John;62;No;johnWayne.png
+1988;110;Tucker: The Man & His Dream;Drama;Bridges, Jeff;Allen, Joan;Coppola, Francis Ford;68;No;NicholasCage.png
+1988;101;Scrooged;Comedy;Murray, Bill;Allen, Karen;Donner, Richard;15;No;NicholasCage.png
+1981;116;Raiders of the Lost Ark;Action;Ford, Harrison;Allen, Karen;Spielberg, Steven;8;No;NicholasCage.png
+1987;101;Running Man, The;Science Fiction;Schwarzenegger, Arnold;Alonso, Maria Conchita;Glaser, Paul Michael;31;No;NicholasCage.png
+1991;105;Predator 2;Action;Glover, Danny;Alonso, Maria Conchita;Hopkins, Stephen;79;No;NicholasCage.png
+1988;127;Colors;Drama;Penn, Sean;Alonso, Maria Conchita;Hopper, Dennis;23;No;NicholasCage.png
+1990;97;Zandalee;Drama;Cage, Nicolas;Anderson, Erika;Pillsbury, Sam;80;No;NicholasCage.png
+1988;108;Miles from Home;Drama;Anderson, Kevin;Anderson, Jo;Sinise, Gary;53;No;NicholasCage.png
+1980;;Happy Birthday to Me;Horror;Ford, Glenn;Anderson, Melissa Sue;Thompson, J. Lee;88;No;glennFord.png
+1989;88;Final Notice;Mystery;Gerard, Gil;Anderson, Melody;Stern, Steven Hilliard;88;No;NicholasCage.png
+1979;110;Quintet;Drama;Newman, Paul;Andersson, Bibi;Altman, Robert;19;No;paulNewman.png
